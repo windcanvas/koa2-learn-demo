@@ -1,0 +1,23 @@
+{
+  "name": "koa2-learn-demo",
+  "version": "1.0.0",
+  "description": "koa2学习练习例子",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqilong199126/koa2-learn-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liqilong199126/koa2-learn-demo/issues"
+  },
+  "homepage": "https://github.com/liqilong199126/koa2-learn-demo#readme",
+  "dependencies": {
+    "koa": "^2.6.2"
+  }
+}
